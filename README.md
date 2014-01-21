@@ -1,5 +1,7 @@
 # Multi Colour Renderer 
+
 Author: Jiri Krizek
+
 Supervisor: Jaroslav Kuchar
 
 <a href="https://marketplace.gephi.org/">Multi Colour Renderer </a> plugin for <a href="http://www.gephi.org">Gephi</a>. 
@@ -9,9 +11,9 @@ The plugin uses an implementation proposed by the user Ferretti published on Gep
 
 Limitations:
 
-	* Only SVG export is supported.
+* Only SVG export is supported.
 
 Inputs:
 
-	* "colourList" attribute as String
-	* the comma delimited list of integers representing rgb of colours
+* "colourList" attribute as String
+* the comma delimited list of integers representing rgb of colours
