@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-OpenIDE-Module: MultiColourRenderer/1
+OpenIDE-Module: cz.cvut.fit.krizeji1.MultiColourRenderer/1
 OpenIDE-Module-Implementation-Version: 1
 OpenIDE-Module-Localizing-Bundle: cz/cvut/fit/krizeji1/multicolour/Bundle.properties
 
