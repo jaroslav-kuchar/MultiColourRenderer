@@ -1,4 +1,4 @@
-package multicolour;
+package cz.cvut.fit.krizeji1.multicolour;
 
 import java.awt.BasicStroke;
 import java.awt.Color;

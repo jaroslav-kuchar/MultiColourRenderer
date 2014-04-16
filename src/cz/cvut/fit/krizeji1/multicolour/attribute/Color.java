@@ -1,7 +1,7 @@
 /*
  * http://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/
  */
-package multicolour.attribute;
+package cz.cvut.fit.krizeji1.multicolour.attribute;
 
 /**
  *
