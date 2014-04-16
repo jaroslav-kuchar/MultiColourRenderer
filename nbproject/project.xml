@@ -64,8 +64,8 @@
                 </dependency>
             </module-dependencies>
             <public-packages>
-                <package>multicolour</package>
-                <package>multicolour.attribute</package>
+                <package>cz.cvut.fit.krizeji1.multicolour</package>
+                <package>cz.cvut.fit.krizeji1.multicolour.attribute</package>
             </public-packages>
         </data>
     </configuration>

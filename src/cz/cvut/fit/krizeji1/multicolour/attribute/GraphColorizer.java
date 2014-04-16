@@ -1,4 +1,4 @@
-package multicolour.attribute;
+package cz.cvut.fit.krizeji1.multicolour.attribute;
 
 import org.gephi.clustering.api.Cluster;
 import org.gephi.data.attributes.api.AttributeColumn;

@@ -1,4 +1,4 @@
-package multicolour.attribute;
+package cz.cvut.fit.krizeji1.multicolour.attribute;
 
 /**
  *
